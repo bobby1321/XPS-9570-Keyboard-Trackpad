@@ -1,0 +1,5 @@
+/media/windowsmount/Users/bapel/Documents/GitHub/XPS_KBTP_Combo/Code/I2C_scanner/build/core/api/PluggableUSB.cpp.o: \
+ /home/bobby/.arduino15/packages/rp2040/hardware/rp2040/6.3.2/cores/rp2040/api/PluggableUSB.cpp \
+ /home/bobby/.arduino15/packages/rp2040/hardware/rp2040/6.3.2/cores/rp2040/api/../../../ArduinoCore-API/api/PluggableUSB.cpp \
+ /home/bobby/.arduino15/packages/rp2040/hardware/rp2040/6.3.2/cores/rp2040/api/../../../ArduinoCore-API/api/USBAPI.h \
+ /home/bobby/.arduino15/packages/rp2040/hardware/rp2040/6.3.2/cores/rp2040/api/../../../ArduinoCore-API/api/PluggableUSB.h

@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "RP2040",
+            "compileCommands": "${workspaceFolder}/build/compile_commands.json",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/user/.arduino15/packages/rp2040/hardware/rp2040/6.3.2/cores/rp2040"
+            ],
+            "compilerPath": "/home/user/.arduino15/packages/rp2040/tools/pqt-gcc/5.0.0-9576866/bin/arm-none-eabi-g++",
+            "intelliSenseMode": "gcc-arm",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

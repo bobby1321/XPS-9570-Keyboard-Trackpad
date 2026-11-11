@@ -1,0 +1,9 @@
+{
+  "additionalFiles": "../../..,../../..,../../..,../../..",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "rp2040:rp2040:seeed_xiao_rp2040",
+  "hardwareFolders": "/home/bobby/.arduino15/packages/rp2040/hardware/rp2040/6.3.2,/home/bobby/.arduino15/packages/rp2040/hardware/rp2040/6.3.2",
+  "otherLibrariesFolders": "/home/bobby/Arduino/libraries",
+  "sketchLocation": "/media/windowsmount/Users/bapel/Documents/GitHub/XPS_KBTP_Combo/Code/I2C_scanner"
+}
